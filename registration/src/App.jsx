@@ -439,6 +439,16 @@ function App() {
             >
               Gmail
             </a>
+            <a
+              href="https://discuza.in/login"
+              style={{
+                color: "#ffce56",
+                textDecoration: "none",
+                margin: "0 10px",
+              }}
+            >
+              Discuza Forum
+            </a>
           </p>
         </div>
         <div style={{ marginTop: "20px", fontSize: "14px", opacity: "0.7" }}>
